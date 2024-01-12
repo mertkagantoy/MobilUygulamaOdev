@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "270329901420",
+    "project_id": "mymapapplication-5590c",
+    "storage_bucket": "mymapapplication-5590c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270329901420:android:ee899e6747364a15384349",
+        "android_client_info": {
+          "package_name": "com.example.mymapapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdloqj5Kn4sUuqT__DflPhT8_TZm8Hhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
